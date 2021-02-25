@@ -49,7 +49,7 @@ function draw() {
 	}
 if(keyPressed(down)){
 	star.x = starBody.position.x;
-	star.y = starBody.position.y:
+	star.y = starBody.position.y;
 }
   drawSprites();
 
